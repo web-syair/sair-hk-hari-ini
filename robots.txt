@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://web-syair.github.io/sair-hk-hari-ini/sitemap.xml
